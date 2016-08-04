@@ -31,5 +31,6 @@ server {
 ### nginx -s stop
 ```
 h5.html?mobile=13621881427&id=1000&type=1
+ssh -o StrictHostKeyChecking = no
 
 
